@@ -1,7 +1,6 @@
-# Hi im Jabin 👋
-<p style="text-align:center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=000000&random=true&width=435&lines=%F0%9F%9B%B0%EF%B8%8F+NASA+Flight+Software+Developer++%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Always+Learning+%F0%9F%A4%94%F0%9F%92%AD;%F0%9F%90%86+Prairie+View+A%26M+Student+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93;Computer+Scientist+%F0%9F%91%BE" alt="Typing SVG" /></a>
-</p>
+# Hello World! Im Jabin 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=true&width=435&lines=Always+Learning+%F0%9F%A4%94%F0%9F%92%AD;%F0%9F%9B%B0%EF%B8%8F+NASA+Flight+Software+Developer;Computer+Scientist+%F0%9F%91%BE;Software+Engineer+%F0%9F%92%BB;Prairie+View+A%26M+University+Student+)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jabin-wade/)](https://www.linkedin.com/in/jabin-wade/)
 [![Gmail Badge](https://img.shields.io/badge/-Jabinwade03-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Jabinwade03@gmail.com)](mailto:Jabinwade03@gmail.com)

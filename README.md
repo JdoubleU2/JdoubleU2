@@ -1,6 +1,6 @@
 # Hello World! Im Jabin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=true&width=435&lines=Always+Learning+%F0%9F%A4%94%F0%9F%92%AD;%F0%9F%9B%B0%EF%B8%8F+NASA+Flight+Software+Developer;Computer+Scientist+%F0%9F%91%BE;Software+Engineer+%F0%9F%92%BB;Prairie+View+A%26M+University+Student+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Software+Engineer+%F0%9F%92%BB;AI+Researcher+%F0%9F%A7%A0;Prairie+View+A%26M+University+Graduate;%F0%9F%9B%B0+NASA+Flight+Software+Developer)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jabin-wade/)](https://www.linkedin.com/in/jabin-wade/)
 [![Gmail Badge](https://img.shields.io/badge/-Jabinwade03-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Jabinwade03@gmail.com)](mailto:Jabinwade03@gmail.com)
